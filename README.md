@@ -51,3 +51,49 @@ Check [my ePortfolio](https://alicevillar.github.io/eportifolio-msc-essex/)
 * Unit 12:The Great Tanenbaum-Torvalds Debate Revisited
 
 
+## Module 4: Network and Information Security Management (NISM)
+### Content Summary
+* Unit 1:Network and Information Security Management: History & Definitions
+* Unit 2:Real World Issues and Implications of Information Security Threats and Vulnerabilities
+* Unit 3:Network Fundamentals
+* Unit 4:Basic Network Investigation Using Standard Tools
+* Unit 5:Network Tools and Components
+* Unit 6:An Evaluation of Commonly Utilised Network Scanning and Penetration Testing Tools
+* Unit 7:Risks and Standards
+* Unit 8:How to Evaluate and Apply Applicable Security Standards
+* Unit 9:System Logging and Forensics
+* Unit 10: Analysing and Mitigating Security Breaches
+* Unit 11: Future Trends, Technologies and Challenges for the Information Security Industry
+* Unit 12:Debate on the Future of the Internet
+
+
+## Module 5: Software Engineering Project Management (SEMP)
+### Content Summary
+* Unit 1:Introduction to Software Engineering Project Management
+* Unit 2:Why Projects Fail and Gathering Requirements Exercise 
+* Unit 3:Software Development Life Cycles
+* Unit 4:Python Data Structures
+* Unit 5:User Experience
+* Unit 6:pytest and Test-Driven Development
+* Unit 7:Estimating, Planning and Risk
+* Unit 8:Risk Assessment and Estimating Tools 
+* Unit 9:Quality Management Strategy
+* Unit 10: Software Quality Monitoring in Python
+* Unit 11:Software Engineering Project Management: Future Trends 
+* Unit 12:The Case for the Future Direction of Software Engineering Project Management
+
+
+## Module 6:Research Methods and Professional Practice (RMPP)
+### Content Summary
+* Unit 1:Scientific Investigation and Ethics 
+* Unit 2:Research Questions, the Literature Review and the Research Proposal
+* Unit 3:Research Methods
+* Unit 4:Case Studies, Focus Groups and Observations
+* Unit 5:Interviews and Survey Methods
+* Unit 6:Questionnaire Design
+* Unit 7:Validity and Generalisability in Research
+* Unit 8:Inferential Statistics 
+* Unit 9:Analysing Qualitative Data
+* Unit 10: Research Writing
+* Unit 11:Professional Development - Your e-Portfolio
+* Unit 12: Project Management and Managing Risk
